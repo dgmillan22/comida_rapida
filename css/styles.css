@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,500;0,700;0,900;1,900&display=swap');
+
+:root {
+    
+    --color-title: #C52427;
+    --color-ofert: #E8CD15;
+    --color-fondo: #000000;
+    --color-conte: #C9C9C9;
+    --color-conte2: #9D9D9D;
+
+}
+
+.row{
+    margin-bottom: 20px;
+}
+
+body{
+    margin-top: 40px;
+}
+
+header{
+    background-color: #E8CD15;
+   
+   /* margen interno */
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* margen interno */
+}
+
+.banner{
+    background-color: #C52427;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+
+.servicios .col{
+    background-color: var(--color-conte2);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sobre-nosotros{
+    background-color: var(--color-title);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+aside{
+    background-color: #E8CD15;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+footer{
+    background-color: #C52427;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+
+
+
+
+
