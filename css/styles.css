@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,500;0,700;0,900;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;0,500;0,700;0,900;1,900&family=Shrikhand&display=swap');
 
 :root {
     
@@ -28,6 +28,10 @@ header{
     /* margen interno */
 }
 
+.logo{
+    font-family: 'Shrikhand', cursive;
+    color:#C52427;
+}
 .banner{
     background-color: #C52427;
     padding-top: 200px;
