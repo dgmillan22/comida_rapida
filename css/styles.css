@@ -35,16 +35,26 @@ header{
     color:#C52427;
 }
 
+.navbar{
+    font-family: 'Jost', sans-serif;
+    font-weight: 500;
+    background-color: none;
+}
 
 
 .card-title{
     font-weight: 900;
-    font-size: 6em;  
+    
+      
 }
 
 .sub-title{
     font-weight: 700;
-    font-size: 4em;
+    font-size: 40%;   
+}
+
+.elementos{
+    position: relative;
     
 }
 
@@ -67,9 +77,13 @@ header{
 }
 
 .sobre-nosotros{
-    background-color: var(--color-title);
+    background-color: white;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.pizza{
+    height: max-content;
 }
 
 aside{
@@ -79,7 +93,7 @@ aside{
 }
 
 footer{
-    background-color: #C52427;
+    background-color: white;
     padding-top: 20px;
     padding-bottom: 20px;
 
