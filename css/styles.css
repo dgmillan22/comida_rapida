@@ -13,6 +13,8 @@
 
 .row{
     margin-bottom: 20px;
+    position: relative;
+    
 }
 
 body{
@@ -32,11 +34,31 @@ header{
     font-family: 'Shrikhand', cursive;
     color:#C52427;
 }
-.banner{
+
+
+
+.card-title{
+    font-weight: 900;
+    font-size: 6em;  
+}
+
+.sub-title{
+    font-weight: 700;
+    font-size: 4em;
+    
+}
+
+
+/* .banner{
     background-color: #C52427;
     padding-top: 200px;
     padding-bottom: 200px;
-}
+    height: 600px;
+     */
+    
+    
+/* } */
+
 
 .servicios .servicio{
     background-color: var(--color-conte2);
